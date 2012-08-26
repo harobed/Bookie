@@ -62,6 +62,7 @@ Contents:
 
    install
    manage_command
+   single_user_mode
    user
    extensions
    hosting
